@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=dox
+Comment=documentation browser
+Exec=dox
+Type=Application
+Terminal=false
+MapNotify=false
+Encoding=UTF-8
+Categories=Qt;Development;
+Icon=dox.png
+# vi: encoding=utf-8
