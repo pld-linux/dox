@@ -5,7 +5,7 @@
 #	- maybe release separate subpackages with documentation
 #	- check what going on with htdig, "configure" (/opt/www/htdig), etc
 Summary:	dox - graphical documentation browser for Unix/X11
-Summary(pl.UTF-8):   dox - przeglądarka dokumentacji dla Uniksa/X11
+Summary(pl.UTF-8):	dox - przeglądarka dokumentacji dla Uniksa/X11
 Name:		dox
 Version:	1.1
 Release:	0.1
