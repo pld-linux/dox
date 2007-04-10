@@ -19,7 +19,7 @@ Source2:	%{name}.png
 Patch0:		%{name}-destpaths.patch
 URL:		http://dox.berlios.de/
 BuildRequires:	qmake >= 3.0.0
-BuildRequires:	qt-devel >= 3.0.0
+BuildRequires:	qt-devel >= 1:3.0.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
